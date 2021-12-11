@@ -10,7 +10,7 @@ Om Chavan (20104056)
 
 Under The Guidance Of - Prof. Geetanjali Kalme.
 
-Introduction:
+#Introduction:
 
 Nowadays, every technical field is trying to style human life at ease. With the rapid growth in the use of the internet and the technologies associated with it, several opportunities are coming up in the web or mobile application. This is made possible through the use of an electronic payment system. It is possible for everyone to order any goods from anywhere on the internet and have the goods delivered to his/her home. Basically, ''Food Ordering System" can be defined as: 
 
@@ -28,7 +28,7 @@ Page Break
 
  
 
- Scope 
+ #Scope 
 
 Can be useful for restaurants to increase their sales. 
 Can be helpful for a customer to get food to deliver in the safe environment of a home. 
@@ -36,7 +36,7 @@ Discount and can be available for the customers.
 
  
 
- Feature /Functionality 
+# Feature /Functionality 
 User Friendly and Easy To Use : 
 Customer panel features allow users to find and order their favourite foods with just a few clicks. 
 
@@ -55,7 +55,7 @@ Users can print/download invoice.
 
  
 
- Project Design: 
+ #Project Design: 
 
 In this phase, a logical system is built which fulfils the given requirements. The design phase of software development deals with transforming the customer's requirements into a logically working system. Normally, design is performed in the following two steps: 
 
